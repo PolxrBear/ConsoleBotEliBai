@@ -1,4 +1,9 @@
+# IntelliJ
 .idea/
 *.iml
 out/
+
+# Java / Gradle / Maven
 target/
+build/
+.gradle/
